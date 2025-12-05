@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Baby, it's you",
+  "base_artist": "YUKI",
+  "createdAt": "2025-12-05T22:51:21.705649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Baby_It's_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/02_Baby_It's_You_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby It’s You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Baby_It’s_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby It's You - Remastered",
+      "artist": "The Carpenters",
+      "has_synced": false,
+      "path": "select/04_Baby_It's_You_-_Remastered_The_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "The Shirelles",
+      "has_synced": true,
+      "path": "select/05_Baby_It's_You_The_Shirelles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "Shakespears Sister",
+      "has_synced": false,
+      "path": "select/06_Baby_It's_You_Shakespears_Sister.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby It’s You",
+      "artist": "Shakespears Sister",
+      "has_synced": false,
+      "path": "select/07_Baby_It’s_You_Shakespears_Sister.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby, It's You",
+      "artist": "Sammy Hagar",
+      "has_synced": true,
+      "path": "select/08_Baby,_It's_You_Sammy_Hagar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/09_Baby_It's_You_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Baby_It's_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "Smith",
+      "has_synced": true,
+      "path": "select/11_Baby_It's_You_Smith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby It's You (Mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Baby_It's_You_(Mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby It’s You (stereo)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Baby_It’s_You_(stereo)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "The Promises",
+      "has_synced": false,
+      "path": "select/14_Baby_It's_You_The_Promises.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby, it's you",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_01_Baby,_it's_you_YUKI.txt"
+    }
+  ]
+}
